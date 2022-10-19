@@ -20,7 +20,7 @@
             android:layout_height="wrap_content"
             android:width="100dp"
             android:ems="10"
-            android:inputType="textPersonName"
+            android:inputType="numberSigned"
             android:numeric="integer"
             tools:layout_editor_absoluteX="155dp"
             tools:layout_editor_absoluteY="55dp" />
@@ -32,7 +32,7 @@
             android:layout_marginTop="30dp"
             android:width="100dp"
             android:ems="10"
-            android:inputType="textPersonName"
+            android:inputType="numberSigned"
             android:numeric="integer"
             tools:layout_editor_absoluteX="155dp"
             tools:layout_editor_absoluteY="122dp" />
